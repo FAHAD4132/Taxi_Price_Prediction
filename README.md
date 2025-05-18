@@ -70,7 +70,7 @@ A full-stack application that predicts taxi fares based on various trip paramete
 
 **Backend**:
 ```bash
-cd backend
+cd taxi-price-prediction/backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
