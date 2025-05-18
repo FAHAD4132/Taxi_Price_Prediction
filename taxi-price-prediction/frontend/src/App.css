@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.prediction-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.prediction-form div {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.prediction-form input,
+.prediction-form select {
+  width: 150px;
+}
+
+.error {
+  color: red;
+}
+
+.prediction-result {
+  margin-top: 20px;
+}
