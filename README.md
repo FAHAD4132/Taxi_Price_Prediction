@@ -38,7 +38,6 @@ A full-stack application that predicts taxi fares based on various trip paramete
 **Infrastructure**:
 - Docker
 - Docker Compose
-- Nginx (for frontend serving)
 
 ## Prerequisites
 
